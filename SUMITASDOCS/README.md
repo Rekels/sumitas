@@ -9,7 +9,8 @@ Este vault de Obsidian está diseñado para llevar el control del diseño, la ar
 ### Enlaces Rápidos
 - [[Diseño_y_Mecanicas]] - Reglas del juego, sistema de progresión y recompensas.
 - [[sesiones/mejoras_y_preparacion_despliegue]] - Mejoras pedagógicas, corrección de métricas de tutor, soporte PWA y despliegue.
-- **Acceso Web en Vivo:** [https://rekels.github.io/sumitas/](https://rekels.github.io/sumitas/)
+- **Acceso Web en Vivo (Surge):** [https://sumitas-victor.surge.sh/](https://sumitas-victor.surge.sh/)
+- **Acceso Web en Vivo (GitHub Pages):** [https://rekels.github.io/sumitas/](https://rekels.github.io/sumitas/)
 
 ## Tecnologías Utilizadas
 - **Frontend:** React + Vite
