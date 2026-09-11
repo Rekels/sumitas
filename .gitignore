@@ -1,0 +1,24 @@
+# Dependencies
+webapp/node_modules/
+node_modules/
+
+# Production build outputs
+webapp/dist/
+dist/
+dist-ssr/
+
+# Local env and logs
+*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Obsidian cache / workspace state
+SUMITASDOCS/.obsidian/workspace*
+SUMITASDOCS/.obsidian/cache/
+
+# System and editor
+.DS_Store
+.vscode/
+.idea/
